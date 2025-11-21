@@ -1,2 +1,2 @@
-# telecom-churn-ml
-telecom-churn-ml — AI/ML • Cloud/Data • Telecom
+# telecom-churn-ml-with-agents
+telecom-churn-ml — AI/ML • AI-RAN • Data • Cloud • Telecom
